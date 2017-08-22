@@ -1,0 +1,40 @@
+html {
+  background-color: #C63D0F;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item {
+  margin-right: 5rem;
+}
+
+.counter {
+  font-size: 50pt;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+}
+
+.duck {
+  position: absolute;
+}
